@@ -1,4 +1,4 @@
-package com.example.jetweatherapp.ui.theme
+package com.alvine_dev.weatherapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

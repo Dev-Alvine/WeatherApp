@@ -1,4 +1,4 @@
-package com.example.jetweatherapp
+package com.alvine_dev.weatherapp
 
 import org.junit.Test
 

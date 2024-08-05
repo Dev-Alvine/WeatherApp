@@ -1,4 +1,4 @@
-package com.example.jetweatherapp
+package com.alvine_dev.weatherapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

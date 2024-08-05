@@ -1,4 +1,4 @@
-package com.example.jetweatherapp.utils
+package com.alvine_dev.weatherapp.utils
 
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.DateRange
